@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ramzy+Hafeel;Software+Engineering+Student;Full-Stack+Developer;AI+Enthusiast;Problem+Solver)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ramzy+Hafeel;Undergraduate+Software+Engineering;Full-Stack+Developer)
   
   <img src="https://komarev.com/ghpvc/?username=ramzyhafeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🎓 **Software Engineering Undergraduate** @ SLIIT (CGPA: 3.65)
+- 🎓 **Software Engineering Undergraduate** @ SLIIT 
 - 🚀 **Seeking Internship Opportunities** in Enterprise Software Development
 - 💼 **Experience:** Completed impactful internships at **Unilever** & **Datamation Systems**
 - 🔍 **Interests:** Full-Stack Development, AI Integration, Agile Workflows
