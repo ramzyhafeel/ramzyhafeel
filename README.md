@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ramzy+Hafeel;Undergraduate+Software+Engineering;Full-Stack+Developer)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ramzy+Hafeel;Undergraduate+Software+Engineer;Full-Stack+Developer)
   
   <img src="https://komarev.com/ghpvc/?username=ramzyhafeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
